@@ -18,6 +18,8 @@ function Login() {
         //     }
         // };
 
+        // https://www.npmjs.com/package/@react-oauth/google
+
         var requestOptions = {
             method: 'GET',
             redirect: 'follow'

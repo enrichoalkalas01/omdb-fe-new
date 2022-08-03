@@ -1,0 +1,62 @@
+#footer {
+    position: relative;
+    background-color: #07213f;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: inherit;
+}
+
+#footer .wrapper-box-footer {
+    background-color: rgba(3, 12, 22, 0.96);
+    padding: 2.5% 5%;
+}
+
+#footer .wrapper-box-footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#footer .wrapper-box-footer .box-menu-footer h5 {
+    margin-bottom: 25px;
+}
+
+#footer .wrapper-box-footer .box-menu-footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#footer .wrapper-box-footer .box-menu-footer ul li {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+#footer .wrapper-box-footer .box-menu-footer .wrapper-logo {
+    display: flex;
+    font-size: 24px;
+    font-weight: 700;
+    align-items: center;
+}
+
+#footer .wrapper-box-footer .box-menu-footer .wrapper-logo img {
+    width: 25%;
+}
+
+#footer .wrapper-box-footer .box-menu-footer .address-box {
+    margin-top: 20px;
+    padding-left: 7%;
+    padding-right: 10%;
+    font-size: 12px;
+}
+
+#footer .wrapper-box-footer .box-menu-footer .telephone-box {
+    padding-left: 7%;
+    padding-right: 10%;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+#footer .wrapper-box-footer .box-menu-footer .telephone-box .phone {
+    font-weight: 700;
+}
